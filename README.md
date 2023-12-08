@@ -36,7 +36,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Deployment Website
-
+https://davidtruong02.github.io/Module-3-challenge/
 
 ## Mock-Up
 
